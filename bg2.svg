@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+  <svg data-v-b7634f34="" class="dv-border-svg-container" width="459" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink"><defs data-v-b7634f34=""><filter data-v-b7634f34="" id="fe417c0f73f645ed8363c386f3ec1f21" height="150%" width="150%" x="-25%" y="-25%"><feMorphology data-v-b7634f34="" operator="dilate" radius="2" in="SourceAlpha" result="thicken"></feMorphology><feGaussianBlur data-v-b7634f34="" in="thicken" stdDeviation="3" result="blurred"></feGaussianBlur><feFlood data-v-b7634f34="" flood-color="#005A5E" result="glowColor"></feFlood><feComposite data-v-b7634f34="" in="glowColor" in2="blurred" operator="in" result="softGlowColored"></feComposite><feMerge data-v-b7634f34=""><feMergeNode data-v-b7634f34="" in="softGlowColored"></feMergeNode><feMergeNode data-v-b7634f34="" in="SourceGraphic"></feMergeNode></feMerge></filter></defs><polygon data-v-b7634f34="" fill="transparent" points="
+        20, 32 139.5, 32 159.5, 53
+      299.5, 53 319.5, 32
+      439, 32 451, 48 451, 275 439, 292
+      20, 292 8, 275 8, 50
+      "></polygon><polyline data-v-b7634f34="" stroke="#1a98fc" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" points="
+        139.5, 30
+      20, 30 7, 50 7, 116.5
+      13, 121.5 13, 201.5
+      7, 206.5 7, 273
+      20, 293 439, 293 452, 273
+      452, 206.5 446, 201.5
+      446, 121.5 452, 116.5
+      452, 50 439, 30 319.5, 30
+      299.5, 7 159.5, 7
+      139.5, 30 159.5, 52
+      299.5, 52 319.5, 30
+      "></polyline><polygon data-v-b7634f34="" stroke="#1a98fc" fill="transparent" points="
+        314.5, 30 298.5, 11
+      292.5, 11 311.5, 34
+      "></polygon><polygon data-v-b7634f34="" stroke="#1a98fc" fill="transparent" points="
+        144.5, 30 161.5, 49
+      167.5, 49 147.5, 26
+      "></polygon><polygon data-v-b7634f34="" stroke="#1a98fc" fill="rgba(0, 90, 94, 0.3)" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" points="
+        308.5, 37 287.5, 11
+      162.5, 11 150.5, 23
+      172.5, 49 297.5, 49
+      "></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="1" points="
+        129.5, 37 108.5, 37
+      114.5, 46 135.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="1;0.7;1" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="0.7" points="
+        99.5, 37 78.5, 37
+      84.5, 46 105.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="0.7;0.4;0.7" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="0.5" points="
+        69.5, 37 48.5, 37
+      54.5, 46 75.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="0.5;0.2;0.5" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="1" points="
+        349.5, 37 328.5, 37
+      322.5, 46 343.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="1;0.7;1" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="0.7" points="
+        379.5, 37 358.5, 37
+      352.5, 46 373.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="0.7;0.4;0.7" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><polygon data-v-b7634f34="" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" fill="#1a98fc" opacity="0.5" points="
+        409.5, 37 388.5, 37
+      382.5, 46 403.5, 46
+      "><animate data-v-b7634f34="" attributeName="opacity" values="0.5;0.2;0.5" dur="2s" begin="0s" repeatCount="indefinite"></animate></polygon><text data-v-b7634f34="" class="dv-border-box-11-title" x="229.5" y="32" fill="#ffffff" font-size="18" text-anchor="middle" dominant-baseline="middle">TITLE</text><polygon data-v-b7634f34="" fill="#1a98fc" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" points="
+        7, 119.5 11, 123.5
+      11, 199.5 7, 203.5
+      "></polygon><polygon data-v-b7634f34="" fill="#1a98fc" filter="url(#fe417c0f73f645ed8363c386f3ec1f21)" points="
+        452, 119.5 448, 123.5
+      448, 199.5 452, 203.5
+      "></polygon></svg>
